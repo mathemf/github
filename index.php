@@ -7,6 +7,7 @@
     <body>
         <?php
             echo 'Estou mudando - DENOVO';
+            echo 'teste';
         ?>
     </body>
 </html>
