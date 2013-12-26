@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-            echo 'estou mudando denovo e denovo E DENOVO E DENOVO E DENOVO E ALGUMAS VEZES MAIS #2';
+            echo 'Estou mudando agora';
         ?>
     </body>
 </html>
