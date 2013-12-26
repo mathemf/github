@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-            echo 'Estou mudando agora';
+            echo 'I am now changing';
         ?>
     </body>
 </html>
