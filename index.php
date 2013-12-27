@@ -7,6 +7,8 @@
     <body>
         <?php
             echo 'Mimimimi - mathe';
+
+            echo 'teste';
         ?>
     </body>
 </html>
