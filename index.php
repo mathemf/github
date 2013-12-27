@@ -6,9 +6,9 @@
     </head>
     <body>
         <?php
-            echo 'augusto - mathe - #1';
+            echo 'augusto - mathe - #2';
 
-            echo 'To cansado do Git';
+            echo 'não To cansado do Git';
         ?>
     </body>
 </html>
